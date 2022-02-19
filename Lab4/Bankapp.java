@@ -105,14 +105,14 @@ public class Main
 		            case 3:
 		                curac.chequebook();
 		                break;
-                    case 4:
-                        curac.display();
-                        break;
-                    case 5:
-                        System.exit(1);
-                    default:
-                        System.out.println("Please Enter Correct Choice");
-                        break;
+                    	    case 4:
+                        	curac.display();
+                        	break;
+                    	    case 5:
+                        	System.exit(1);
+                    	    default:
+                        	System.out.println("Please Enter Correct Choice");
+                        	break;
 		        }
 		        System.out.print("Enter your choice : ");
 		        func=x.nextInt();
@@ -134,14 +134,14 @@ public class Main
 		            case 3:
 		                savac.chequebook();
 		                break;
-                    case 4:
-                        savac.display();
-                        break;
-                    case 5:
-                        System.exit(1);
-                    default:
-                        System.out.println("Please Enter Correct Choice");
-                        break;
+                    	    case 4:
+                        	savac.display();
+                        	break;
+                    	    case 5:
+                        	System.exit(1);
+                    	    default:
+                        	System.out.println("Please Enter Correct Choice");
+                        	break;
 		        }
 		        System.out.print("Enter your choice : ");
 		        func=x.nextInt();
